@@ -16,9 +16,9 @@ Insights derived from the analysis
 
 The dataset contains simulated sales transactions from Reliance Finance. Each record represents a transaction carried out by a customer with details on product type, payment mode, region, and sales representative performance.
 
-##Table Name: RelianceFinanceSales
+Table Name: RelianceFinanceSales
 
-#Schema:
+Schema:
 
 OrderID – Unique identifier for each transaction
 OrderDate – Date of transaction (standardized as dd-mm-yyyy)
@@ -38,14 +38,14 @@ FeedbackScore – Customer feedback score (1–5)
 
 This dataset is designed to replicate a real-world financial sales environment, making it a valuable practice resource for data analysts and SQL developers.
 
-##🎯 Objectives of the Project
+🎯 Objectives of the Project
 
 The primary aim is to showcase SQL skills applied to a real-world business case:
 Data Exploration – Understanding the structure of transactions
 Descriptive Analytics – Aggregations, averages, counts, and groupings.
 Advanced SQL Analysis – Using window functions, ranking and  moving averages to extract deep business insights.
 
-##📊 Business Questions Answered
+📊 Business Questions Answered
 
 A variety of business-driven queries were written, ranging from basic to advanced, including:
 1.Retrieve all sales records for Mutual Fund products in January 2023.
@@ -65,7 +65,7 @@ A variety of business-driven queries were written, ranging from basic to advance
 15.Find the Customer who purchased the highest Quantity overall (not sales amount).
 16.Which Product SubCategory has the maximum failed transactions?
 
-##📈 Insights Derived
+📈 Insights Derived
 
 Through SQL analysis, some of the key insights derived are:
 Certain branches experience higher transaction failures, hinting at operational issues.
@@ -74,14 +74,14 @@ A small group of loyal customers drive significant revenue share.
 SalesRep performance varies by region, with clear top performers.
 Gender-wise contribution to revenue shows market segmentation opportunities.
 
-##🚀 How to Use This Project
+🚀 How to Use This Project
 
 Import the dataset into PostgreSQL.
 Run the provided DDL statement to create the table schema.
 Execute queries step by step in pgAdmin4.
 Modify queries as per analysis needs.
 
-##📌 Conclusion
+📌 Conclusion
 
 This project demonstrates how SQL can be applied in financial analytics to answer real-world business questions. The queries cover a full learning curve from beginner to advanced level, making this an excellent resource for:
 SQL learners preparing for interviews
