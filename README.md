@@ -1,5 +1,5 @@
 # Reliance-Finance-Sales-Analysis-Using-PostgreSQL
-##📌 Project Overview
+📌 ##Project Overview
 
 This project focuses on analyzing a Reliance Finance Sales dataset using SQL queries in PostgreSQL (pgAdmin4). The dataset captures various aspects of financial product sales, such as customer demographics, product details, sales representatives, transaction statuses, payment modes, feedback scores, and revenue generated.
 
@@ -12,7 +12,7 @@ An overview of SQL concepts applied
 A collection of business-driven SQL queries
 Insights derived from the analysis
 
-##📂 Dataset Description
+📂 Dataset Description
 
 The dataset contains simulated sales transactions from Reliance Finance. Each record represents a transaction carried out by a customer with details on product type, payment mode, region, and sales representative performance.
 
