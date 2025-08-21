@@ -1,0 +1,201 @@
+OrderID,OrderDate,ProductName,Category,SubCategory,Quantity,UnitPrice,TotalSales,CustomerName,Gender,Age,Region,SalesRep,Country,Currency,Branch,PaymentMode,Channel,TransactionStatus,FeedbackScore
+RFIN-1000,01-01-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,1863,5589,Neha,Female,45,Delhi,Amit,India,INR,Branch-4,UPI,Offline,Pending,5
+RFIN-1001,02-01-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,3790,15160,Rahul,Female,44,Kolkata,Vikas,India,INR,Branch-3,Cheque,Offline,Success,5
+RFIN-1002,03-01-2023 00:00,Debt Fund,Investment,Debt Fund,1,8408,8408,Ishita,Female,33,Chennai,Amit,India,INR,Branch-4,Credit Card,Offline,Failed,3
+RFIN-1003,04-01-2023 00:00,Equity,Investment,Equity,3,9755,29265,Neha,Female,27,Kolkata,Sneha,India,INR,Branch-3,Credit Card,Online,Failed,5
+RFIN-1004,05-01-2023 00:00,Equity,Investment,Equity,3,6116,18348,Rahul,Male,56,Mumbai,Raj,India,INR,Branch-1,Cheque,Online,Pending,1
+RFIN-1005,06-01-2023 00:00,Equity,Investment,Equity,4,7019,28076,Megha,Female,40,Kolkata,Vikas,India,INR,Branch-4,Cheque,Offline,Success,4
+RFIN-1006,07-01-2023 00:00,Mutual Fund,Investment,Mutual Fund,1,2757,2757,Neha,Male,21,Mumbai,Raj,India,INR,Branch-3,Cheque,Offline,Success,1
+RFIN-1007,08-01-2023 00:00,Pension Plan,Others,Others,1,8574,8574,Ishita,Female,28,Bangalore,Amit,India,INR,Branch-5,Credit Card,Online,Success,1
+RFIN-1008,09-01-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,7374,22122,Karan,Male,36,Chennai,Amit,India,INR,Branch-2,Cheque,Agent,Pending,5
+RFIN-1009,10-01-2023 00:00,Pension Plan,Others,Others,2,7892,15784,Pooja,Female,34,Bangalore,Priya,India,INR,Branch-1,Cheque,Online,Pending,4
+RFIN-1010,11-01-2023 00:00,Insurance,Others,Others,3,2678,8034,Ishita,Male,32,Bangalore,Vikas,India,INR,Branch-4,Credit Card,Agent,Failed,4
+RFIN-1011,12-01-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,4242,12726,Aarav,Male,43,Kolkata,Vikas,India,INR,Branch-3,Credit Card,Agent,Success,4
+RFIN-1012,13-01-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,5636,16908,Pooja,Female,35,Kolkata,Amit,India,INR,Branch-5,UPI,Agent,Failed,3
+RFIN-1013,14-01-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,2059,6177,Ishita,Female,48,Kolkata,Raj,India,INR,Branch-3,Net Banking,Offline,Pending,5
+RFIN-1014,15-01-2023 00:00,Equity,Investment,Equity,4,7668,30672,Pooja,Male,54,Bangalore,Vikas,India,INR,Branch-4,Credit Card,Offline,Pending,4
+RFIN-1015,16-01-2023 00:00,Equity,Investment,Equity,1,4157,4157,Aditya,Female,22,Chennai,Amit,India,INR,Branch-3,Net Banking,Agent,Failed,3
+RFIN-1016,17-01-2023 00:00,Pension Plan,Others,Others,4,6915,27660,Ishita,Female,52,Chennai,Priya,India,INR,Branch-4,UPI,Agent,Success,2
+RFIN-1017,18-01-2023 00:00,Pension Plan,Others,Others,4,3693,14772,Neha,Male,43,Mumbai,Sneha,India,INR,Branch-3,UPI,Agent,Success,2
+RFIN-1018,19-01-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,4627,18508,Neha,Female,42,Delhi,Vikas,India,INR,Branch-2,Cheque,Online,Success,3
+RFIN-1019,20-01-2023 00:00,Pension Plan,Others,Others,3,6450,19350,Aditya,Female,45,Chennai,Sneha,India,INR,Branch-4,UPI,Offline,Pending,3
+RFIN-1020,21-01-2023 00:00,Equity,Investment,Equity,2,2663,5326,Megha,Female,42,Kolkata,Raj,India,INR,Branch-4,Cheque,Agent,Success,5
+RFIN-1021,22-01-2023 00:00,Pension Plan,Others,Others,1,6592,6592,Aditya,Female,42,Mumbai,Priya,India,INR,Branch-1,Cheque,Agent,Success,5
+RFIN-1022,23-01-2023 00:00,Insurance,Others,Others,2,8392,16784,Aditya,Female,26,Kolkata,Vikas,India,INR,Branch-2,Credit Card,Online,Failed,2
+RFIN-1023,24-01-2023 00:00,Equity,Investment,Equity,4,2306,9224,Pooja,Female,35,Bangalore,Sneha,India,INR,Branch-4,Credit Card,Offline,Failed,4
+RFIN-1024,25-01-2023 00:00,Insurance,Others,Others,4,7776,31104,Rahul,Male,57,Bangalore,Sneha,India,INR,Branch-5,Net Banking,Agent,Failed,2
+RFIN-1025,26-01-2023 00:00,Pension Plan,Others,Others,2,6864,13728,Neha,Male,53,Kolkata,Amit,India,INR,Branch-3,Cheque,Offline,Failed,4
+RFIN-1026,27-01-2023 00:00,Debt Fund,Investment,Debt Fund,2,8526,17052,Rahul,Female,28,Chennai,Sneha,India,INR,Branch-5,Cheque,Agent,Pending,4
+RFIN-1027,28-01-2023 00:00,Mutual Fund,Investment,Mutual Fund,2,9901,19802,Aditya,Female,25,Delhi,Raj,India,INR,Branch-3,Net Banking,Online,Success,5
+RFIN-1028,29-01-2023 00:00,Equity,Investment,Equity,4,6575,26300,Megha,Male,59,Kolkata,Sneha,India,INR,Branch-3,Cheque,Online,Pending,1
+RFIN-1029,30-01-2023 00:00,Insurance,Others,Others,4,6530,26120,Neha,Female,24,Chennai,Raj,India,INR,Branch-1,UPI,Offline,Success,1
+RFIN-1030,31-01-2023 00:00,Debt Fund,Investment,Debt Fund,1,5413,5413,Ishita,Female,26,Mumbai,Raj,India,INR,Branch-4,Cheque,Online,Pending,3
+RFIN-1031,01-02-2023 00:00,Debt Fund,Investment,Debt Fund,1,4748,4748,Ishita,Male,52,Kolkata,Amit,India,INR,Branch-3,Cheque,Offline,Success,5
+RFIN-1032,02-02-2023 00:00,Equity,Investment,Equity,4,1663,6652,Ishita,Female,50,Mumbai,Priya,India,INR,Branch-1,Cheque,Agent,Success,4
+RFIN-1033,03-02-2023 00:00,Equity,Investment,Equity,2,2998,5996,Pooja,Female,55,Chennai,Raj,India,INR,Branch-5,Credit Card,Online,Success,1
+RFIN-1034,04-02-2023 00:00,Debt Fund,Investment,Debt Fund,2,8994,17988,Aarav,Male,36,Chennai,Sneha,India,INR,Branch-1,UPI,Agent,Pending,4
+RFIN-1035,05-02-2023 00:00,Mutual Fund,Investment,Mutual Fund,1,2495,2495,Aditya,Female,33,Chennai,Sneha,India,INR,Branch-5,Cheque,Agent,Failed,1
+RFIN-1036,06-02-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,4304,17216,Aarav,Female,50,Chennai,Raj,India,INR,Branch-4,UPI,Online,Failed,1
+RFIN-1037,07-02-2023 00:00,Insurance,Others,Others,1,4763,4763,Karan,Female,39,Bangalore,Sneha,India,INR,Branch-3,UPI,Online,Pending,1
+RFIN-1038,08-02-2023 00:00,Mutual Fund,Investment,Mutual Fund,1,6232,6232,Pooja,Female,37,Chennai,Vikas,India,INR,Branch-2,UPI,Online,Success,5
+RFIN-1039,09-02-2023 00:00,Debt Fund,Investment,Debt Fund,3,2853,8559,Ishita,Female,39,Bangalore,Amit,India,INR,Branch-5,Net Banking,Agent,Success,2
+RFIN-1040,10-02-2023 00:00,Debt Fund,Investment,Debt Fund,3,7585,22755,Neha,Male,48,Delhi,Sneha,India,INR,Branch-3,Cheque,Offline,Pending,4
+RFIN-1041,11-02-2023 00:00,Pension Plan,Others,Others,3,2291,6873,Pooja,Female,46,Bangalore,Amit,India,INR,Branch-2,Credit Card,Offline,Failed,5
+RFIN-1042,12-02-2023 00:00,Debt Fund,Investment,Debt Fund,2,4581,9162,Neha,Male,57,Mumbai,Raj,India,INR,Branch-2,Credit Card,Agent,Failed,5
+RFIN-1043,13-02-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,8554,34216,Rahul,Male,46,Delhi,Raj,India,INR,Branch-5,Credit Card,Agent,Success,5
+RFIN-1044,14-02-2023 00:00,Insurance,Others,Others,4,8280,33120,Rahul,Female,43,Mumbai,Raj,India,INR,Branch-3,Credit Card,Agent,Failed,5
+RFIN-1045,15-02-2023 00:00,Pension Plan,Others,Others,4,2636,10544,Neha,Female,29,Kolkata,Amit,India,INR,Branch-2,Cheque,Online,Failed,5
+RFIN-1046,16-02-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,4696,18784,Ishita,Male,32,Kolkata,Sneha,India,INR,Branch-1,Credit Card,Offline,Failed,3
+RFIN-1047,17-02-2023 00:00,Insurance,Others,Others,3,1698,5094,Aarav,Male,21,Bangalore,Vikas,India,INR,Branch-1,UPI,Offline,Success,4
+RFIN-1048,18-02-2023 00:00,Mutual Fund,Investment,Mutual Fund,2,5737,11474,Aditya,Female,21,Mumbai,Amit,India,INR,Branch-3,Net Banking,Offline,Failed,5
+RFIN-1049,19-02-2023 00:00,Pension Plan,Others,Others,2,1854,3708,Pooja,Male,54,Kolkata,Vikas,India,INR,Branch-4,Credit Card,Offline,Success,4
+RFIN-1050,20-02-2023 00:00,Debt Fund,Investment,Debt Fund,3,9164,27492,Pooja,Male,52,Kolkata,Sneha,India,INR,Branch-1,UPI,Offline,Pending,3
+RFIN-1051,21-02-2023 00:00,Pension Plan,Others,Others,2,6855,13710,Ishita,Male,45,Kolkata,Sneha,India,INR,Branch-5,Credit Card,Offline,Pending,3
+RFIN-1052,22-02-2023 00:00,Debt Fund,Investment,Debt Fund,3,8392,25176,Aditya,Male,21,Delhi,Amit,India,INR,Branch-3,Cheque,Agent,Success,4
+RFIN-1053,23-02-2023 00:00,Pension Plan,Others,Others,4,7528,30112,Rahul,Male,36,Delhi,Priya,India,INR,Branch-2,UPI,Agent,Failed,1
+RFIN-1054,24-02-2023 00:00,Equity,Investment,Equity,3,6249,18747,Aarav,Male,59,Chennai,Vikas,India,INR,Branch-1,Cheque,Online,Pending,2
+RFIN-1055,25-02-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,6172,24688,Aditya,Female,25,Mumbai,Raj,India,INR,Branch-3,Credit Card,Agent,Success,1
+RFIN-1056,26-02-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,2707,10828,Rahul,Male,42,Kolkata,Vikas,India,INR,Branch-3,UPI,Agent,Failed,1
+RFIN-1057,27-02-2023 00:00,Equity,Investment,Equity,1,6791,6791,Aditya,Female,49,Mumbai,Sneha,India,INR,Branch-4,UPI,Offline,Pending,1
+RFIN-1058,28-02-2023 00:00,Debt Fund,Investment,Debt Fund,3,6535,19605,Karan,Female,23,Chennai,Sneha,India,INR,Branch-2,UPI,Online,Success,5
+RFIN-1059,01-03-2023 00:00,Mutual Fund,Investment,Mutual Fund,1,5931,5931,Pooja,Male,32,Bangalore,Amit,India,INR,Branch-2,Credit Card,Offline,Failed,3
+RFIN-1060,02-03-2023 00:00,Equity,Investment,Equity,3,4510,13530,Karan,Female,46,Chennai,Priya,India,INR,Branch-2,Net Banking,Online,Failed,1
+RFIN-1061,03-03-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,1202,3606,Aditya,Female,36,Kolkata,Raj,India,INR,Branch-5,Net Banking,Agent,Success,3
+RFIN-1062,04-03-2023 00:00,Insurance,Others,Others,1,5218,5218,Pooja,Female,57,Bangalore,Vikas,India,INR,Branch-3,Cheque,Agent,Failed,4
+RFIN-1063,05-03-2023 00:00,Debt Fund,Investment,Debt Fund,1,9958,9958,Aarav,Male,42,Bangalore,Priya,India,INR,Branch-5,Net Banking,Offline,Pending,2
+RFIN-1064,06-03-2023 00:00,Insurance,Others,Others,3,5389,16167,Ishita,Male,49,Chennai,Raj,India,INR,Branch-5,Credit Card,Offline,Success,4
+RFIN-1065,07-03-2023 00:00,Debt Fund,Investment,Debt Fund,2,3327,6654,Karan,Male,34,Kolkata,Sneha,India,INR,Branch-3,UPI,Offline,Failed,4
+RFIN-1066,08-03-2023 00:00,Equity,Investment,Equity,4,9004,36016,Ishita,Male,48,Bangalore,Sneha,India,INR,Branch-2,UPI,Agent,Failed,5
+RFIN-1067,09-03-2023 00:00,Debt Fund,Investment,Debt Fund,1,3931,3931,Rahul,Female,25,Chennai,Amit,India,INR,Branch-3,Credit Card,Agent,Failed,2
+RFIN-1068,10-03-2023 00:00,Debt Fund,Investment,Debt Fund,4,8777,35108,Rahul,Male,50,Chennai,Amit,India,INR,Branch-4,UPI,Agent,Failed,4
+RFIN-1069,11-03-2023 00:00,Equity,Investment,Equity,2,1197,2394,Megha,Male,25,Kolkata,Vikas,India,INR,Branch-3,Net Banking,Online,Failed,4
+RFIN-1070,12-03-2023 00:00,Debt Fund,Investment,Debt Fund,2,8125,16250,Rahul,Female,32,Chennai,Priya,India,INR,Branch-3,Cheque,Offline,Success,2
+RFIN-1071,13-03-2023 00:00,Mutual Fund,Investment,Mutual Fund,2,2930,5860,Rahul,Male,36,Chennai,Priya,India,INR,Branch-1,Credit Card,Online,Pending,2
+RFIN-1072,14-03-2023 00:00,Pension Plan,Others,Others,1,7287,7287,Pooja,Male,46,Chennai,Raj,India,INR,Branch-4,UPI,Agent,Pending,4
+RFIN-1073,15-03-2023 00:00,Equity,Investment,Equity,2,9800,19600,Aarav,Male,46,Mumbai,Vikas,India,INR,Branch-1,Credit Card,Agent,Success,2
+RFIN-1074,16-03-2023 00:00,Pension Plan,Others,Others,1,5282,5282,Rahul,Female,41,Delhi,Amit,India,INR,Branch-2,Net Banking,Online,Failed,4
+RFIN-1075,17-03-2023 00:00,Equity,Investment,Equity,2,3511,7022,Neha,Male,59,Mumbai,Vikas,India,INR,Branch-2,UPI,Offline,Pending,4
+RFIN-1076,18-03-2023 00:00,Equity,Investment,Equity,4,1659,6636,Aarav,Female,56,Chennai,Sneha,India,INR,Branch-4,UPI,Offline,Pending,5
+RFIN-1077,19-03-2023 00:00,Insurance,Others,Others,4,3811,15244,Neha,Female,53,Delhi,Amit,India,INR,Branch-5,UPI,Agent,Pending,1
+RFIN-1078,20-03-2023 00:00,Insurance,Others,Others,3,8098,24294,Neha,Female,50,Bangalore,Priya,India,INR,Branch-3,UPI,Agent,Failed,4
+RFIN-1079,21-03-2023 00:00,Debt Fund,Investment,Debt Fund,4,7546,30184,Ishita,Female,57,Mumbai,Amit,India,INR,Branch-1,Credit Card,Agent,Success,3
+RFIN-1080,22-03-2023 00:00,Pension Plan,Others,Others,3,2986,8958,Aditya,Female,43,Mumbai,Sneha,India,INR,Branch-4,Net Banking,Offline,Pending,1
+RFIN-1081,23-03-2023 00:00,Equity,Investment,Equity,4,9338,37352,Neha,Male,30,Mumbai,Amit,India,INR,Branch-1,Net Banking,Online,Success,1
+RFIN-1082,24-03-2023 00:00,Debt Fund,Investment,Debt Fund,1,3911,3911,Ishita,Female,25,Kolkata,Priya,India,INR,Branch-3,Cheque,Agent,Pending,1
+RFIN-1083,25-03-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,2734,10936,Rahul,Female,56,Chennai,Sneha,India,INR,Branch-5,Credit Card,Agent,Success,5
+RFIN-1084,26-03-2023 00:00,Equity,Investment,Equity,3,2843,8529,Neha,Female,54,Bangalore,Raj,India,INR,Branch-1,Net Banking,Online,Failed,4
+RFIN-1085,27-03-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,9680,29040,Aditya,Male,51,Bangalore,Vikas,India,INR,Branch-4,Credit Card,Offline,Failed,5
+RFIN-1086,28-03-2023 00:00,Debt Fund,Investment,Debt Fund,2,3976,7952,Megha,Female,30,Bangalore,Raj,India,INR,Branch-3,Credit Card,Agent,Failed,4
+RFIN-1087,29-03-2023 00:00,Insurance,Others,Others,1,2959,2959,Karan,Female,39,Chennai,Sneha,India,INR,Branch-3,Net Banking,Offline,Success,5
+RFIN-1088,30-03-2023 00:00,Debt Fund,Investment,Debt Fund,4,6759,27036,Ishita,Male,52,Delhi,Sneha,India,INR,Branch-5,Cheque,Agent,Failed,5
+RFIN-1089,31-03-2023 00:00,Mutual Fund,Investment,Mutual Fund,2,7694,15388,Megha,Female,21,Mumbai,Sneha,India,INR,Branch-4,Cheque,Offline,Failed,3
+RFIN-1090,01-04-2023 00:00,Equity,Investment,Equity,4,3385,13540,Ishita,Female,25,Chennai,Priya,India,INR,Branch-3,Cheque,Online,Pending,5
+RFIN-1091,02-04-2023 00:00,Pension Plan,Others,Others,4,5736,22944,Karan,Male,24,Mumbai,Sneha,India,INR,Branch-1,UPI,Agent,Success,2
+RFIN-1092,03-04-2023 00:00,Debt Fund,Investment,Debt Fund,2,2802,5604,Aditya,Female,36,Chennai,Vikas,India,INR,Branch-2,Net Banking,Agent,Success,3
+RFIN-1093,04-04-2023 00:00,Equity,Investment,Equity,2,9155,18310,Aarav,Male,44,Mumbai,Priya,India,INR,Branch-4,UPI,Agent,Pending,5
+RFIN-1094,05-04-2023 00:00,Insurance,Others,Others,2,9120,18240,Karan,Female,36,Chennai,Sneha,India,INR,Branch-1,UPI,Agent,Failed,1
+RFIN-1095,06-04-2023 00:00,Insurance,Others,Others,2,7616,15232,Pooja,Female,22,Delhi,Priya,India,INR,Branch-5,UPI,Agent,Pending,2
+RFIN-1096,07-04-2023 00:00,Insurance,Others,Others,2,6534,13068,Megha,Female,48,Bangalore,Vikas,India,INR,Branch-5,Credit Card,Online,Failed,2
+RFIN-1097,08-04-2023 00:00,Equity,Investment,Equity,4,5061,20244,Neha,Male,52,Mumbai,Vikas,India,INR,Branch-3,Credit Card,Agent,Success,2
+RFIN-1098,09-04-2023 00:00,Debt Fund,Investment,Debt Fund,2,1262,2524,Rahul,Male,47,Chennai,Priya,India,INR,Branch-5,Net Banking,Agent,Failed,3
+RFIN-1099,10-04-2023 00:00,Equity,Investment,Equity,1,7287,7287,Pooja,Male,40,Delhi,Amit,India,INR,Branch-2,Net Banking,Offline,Pending,5
+RFIN-1100,11-04-2023 00:00,Equity,Investment,Equity,3,9815,29445,Neha,Male,44,Delhi,Raj,India,INR,Branch-1,Credit Card,Agent,Failed,5
+RFIN-1101,12-04-2023 00:00,Pension Plan,Others,Others,2,3049,6098,Neha,Female,32,Bangalore,Sneha,India,INR,Branch-4,Credit Card,Offline,Pending,1
+RFIN-1102,13-04-2023 00:00,Pension Plan,Others,Others,2,6423,12846,Ishita,Male,55,Chennai,Raj,India,INR,Branch-3,UPI,Online,Failed,1
+RFIN-1103,14-04-2023 00:00,Debt Fund,Investment,Debt Fund,4,5548,22192,Karan,Male,53,Mumbai,Vikas,India,INR,Branch-4,Cheque,Offline,Success,2
+RFIN-1104,15-04-2023 00:00,Pension Plan,Others,Others,2,4108,8216,Aarav,Male,53,Kolkata,Raj,India,INR,Branch-1,Cheque,Offline,Success,1
+RFIN-1105,16-04-2023 00:00,Insurance,Others,Others,2,8158,16316,Megha,Female,57,Delhi,Amit,India,INR,Branch-2,Cheque,Online,Success,3
+RFIN-1106,17-04-2023 00:00,Pension Plan,Others,Others,2,8400,16800,Neha,Female,32,Delhi,Raj,India,INR,Branch-1,Cheque,Online,Failed,5
+RFIN-1107,18-04-2023 00:00,Insurance,Others,Others,4,4170,16680,Ishita,Female,23,Bangalore,Raj,India,INR,Branch-1,Cheque,Offline,Pending,2
+RFIN-1108,19-04-2023 00:00,Debt Fund,Investment,Debt Fund,2,3255,6510,Megha,Female,21,Chennai,Vikas,India,INR,Branch-3,UPI,Offline,Success,1
+RFIN-1109,20-04-2023 00:00,Equity,Investment,Equity,3,2154,6462,Karan,Female,53,Kolkata,Vikas,India,INR,Branch-4,Net Banking,Online,Pending,3
+RFIN-1110,21-04-2023 00:00,Equity,Investment,Equity,4,5499,21996,Aarav,Male,30,Kolkata,Sneha,India,INR,Branch-1,Credit Card,Online,Success,3
+RFIN-1111,22-04-2023 00:00,Pension Plan,Others,Others,3,7295,21885,Pooja,Male,49,Kolkata,Priya,India,INR,Branch-1,UPI,Online,Success,1
+RFIN-1112,23-04-2023 00:00,Insurance,Others,Others,4,7197,28788,Karan,Female,33,Chennai,Sneha,India,INR,Branch-2,Cheque,Online,Success,5
+RFIN-1113,24-04-2023 00:00,Mutual Fund,Investment,Mutual Fund,2,2648,5296,Rahul,Female,32,Mumbai,Vikas,India,INR,Branch-5,Credit Card,Online,Success,1
+RFIN-1114,25-04-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,6539,19617,Karan,Male,51,Delhi,Sneha,India,INR,Branch-2,UPI,Offline,Pending,2
+RFIN-1115,26-04-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,5199,20796,Neha,Female,22,Chennai,Raj,India,INR,Branch-4,Cheque,Online,Pending,1
+RFIN-1116,27-04-2023 00:00,Equity,Investment,Equity,1,9445,9445,Aarav,Female,55,Kolkata,Raj,India,INR,Branch-4,UPI,Agent,Failed,3
+RFIN-1117,28-04-2023 00:00,Equity,Investment,Equity,2,3557,7114,Karan,Male,43,Delhi,Vikas,India,INR,Branch-3,Credit Card,Agent,Pending,1
+RFIN-1118,29-04-2023 00:00,Insurance,Others,Others,4,6592,26368,Neha,Female,37,Delhi,Vikas,India,INR,Branch-5,Net Banking,Agent,Failed,5
+RFIN-1119,30-04-2023 00:00,Pension Plan,Others,Others,1,1098,1098,Neha,Female,46,Kolkata,Sneha,India,INR,Branch-4,Cheque,Agent,Pending,4
+RFIN-1120,01-05-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,3200,12800,Aarav,Female,28,Kolkata,Sneha,India,INR,Branch-5,Credit Card,Online,Pending,1
+RFIN-1121,02-05-2023 00:00,Insurance,Others,Others,1,3961,3961,Karan,Female,49,Delhi,Raj,India,INR,Branch-2,Credit Card,Agent,Success,5
+RFIN-1122,03-05-2023 00:00,Insurance,Others,Others,2,5973,11946,Karan,Male,46,Bangalore,Priya,India,INR,Branch-4,Net Banking,Offline,Failed,5
+RFIN-1123,04-05-2023 00:00,Pension Plan,Others,Others,3,5433,16299,Ishita,Female,30,Delhi,Priya,India,INR,Branch-1,UPI,Agent,Success,3
+RFIN-1124,05-05-2023 00:00,Insurance,Others,Others,1,3869,3869,Megha,Male,46,Mumbai,Vikas,India,INR,Branch-4,Net Banking,Online,Pending,5
+RFIN-1125,06-05-2023 00:00,Pension Plan,Others,Others,4,1956,7824,Ishita,Female,54,Mumbai,Sneha,India,INR,Branch-5,Net Banking,Agent,Pending,5
+RFIN-1126,07-05-2023 00:00,Debt Fund,Investment,Debt Fund,2,9352,18704,Karan,Female,27,Bangalore,Priya,India,INR,Branch-4,UPI,Offline,Success,5
+RFIN-1127,08-05-2023 00:00,Pension Plan,Others,Others,1,6699,6699,Pooja,Female,24,Chennai,Sneha,India,INR,Branch-3,UPI,Online,Failed,5
+RFIN-1128,09-05-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,7944,31776,Karan,Male,31,Delhi,Amit,India,INR,Branch-1,UPI,Online,Pending,2
+RFIN-1129,10-05-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,5493,21972,Rahul,Female,49,Mumbai,Raj,India,INR,Branch-3,Credit Card,Online,Pending,2
+RFIN-1130,11-05-2023 00:00,Pension Plan,Others,Others,4,5911,23644,Neha,Female,56,Delhi,Sneha,India,INR,Branch-2,Credit Card,Agent,Success,3
+RFIN-1131,12-05-2023 00:00,Debt Fund,Investment,Debt Fund,1,4987,4987,Aditya,Female,45,Bangalore,Sneha,India,INR,Branch-4,Cheque,Agent,Pending,1
+RFIN-1132,13-05-2023 00:00,Debt Fund,Investment,Debt Fund,1,7015,7015,Karan,Male,41,Kolkata,Sneha,India,INR,Branch-4,Cheque,Online,Pending,5
+RFIN-1133,14-05-2023 00:00,Mutual Fund,Investment,Mutual Fund,1,2218,2218,Rahul,Female,56,Bangalore,Priya,India,INR,Branch-2,Net Banking,Agent,Pending,1
+RFIN-1134,15-05-2023 00:00,Debt Fund,Investment,Debt Fund,3,5496,16488,Rahul,Male,30,Bangalore,Sneha,India,INR,Branch-3,Net Banking,Offline,Failed,1
+RFIN-1135,16-05-2023 00:00,Insurance,Others,Others,1,5735,5735,Megha,Male,57,Bangalore,Amit,India,INR,Branch-1,Cheque,Online,Pending,3
+RFIN-1136,17-05-2023 00:00,Equity,Investment,Equity,1,5555,5555,Aarav,Female,29,Mumbai,Priya,India,INR,Branch-3,Net Banking,Offline,Pending,5
+RFIN-1137,18-05-2023 00:00,Insurance,Others,Others,1,9050,9050,Karan,Male,44,Bangalore,Vikas,India,INR,Branch-5,UPI,Offline,Pending,5
+RFIN-1138,19-05-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,4446,13338,Aarav,Male,55,Kolkata,Vikas,India,INR,Branch-3,Credit Card,Agent,Success,4
+RFIN-1139,20-05-2023 00:00,Debt Fund,Investment,Debt Fund,1,2045,2045,Pooja,Female,55,Kolkata,Raj,India,INR,Branch-1,Cheque,Agent,Pending,1
+RFIN-1140,21-05-2023 00:00,Pension Plan,Others,Others,4,7893,31572,Aditya,Male,56,Kolkata,Amit,India,INR,Branch-4,Credit Card,Online,Failed,1
+RFIN-1141,22-05-2023 00:00,Equity,Investment,Equity,1,2693,2693,Rahul,Female,38,Chennai,Sneha,India,INR,Branch-3,Cheque,Offline,Pending,2
+RFIN-1142,23-05-2023 00:00,Pension Plan,Others,Others,4,4436,17744,Neha,Male,59,Bangalore,Amit,India,INR,Branch-2,Credit Card,Agent,Pending,4
+RFIN-1143,24-05-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,9754,39016,Neha,Male,52,Kolkata,Vikas,India,INR,Branch-1,Cheque,Offline,Failed,2
+RFIN-1144,25-05-2023 00:00,Debt Fund,Investment,Debt Fund,4,6895,27580,Aarav,Female,44,Chennai,Sneha,India,INR,Branch-4,Credit Card,Agent,Pending,2
+RFIN-1145,26-05-2023 00:00,Pension Plan,Others,Others,3,4354,13062,Rahul,Female,43,Bangalore,Amit,India,INR,Branch-1,UPI,Offline,Success,2
+RFIN-1146,27-05-2023 00:00,Pension Plan,Others,Others,3,1225,3675,Megha,Female,52,Bangalore,Priya,India,INR,Branch-2,Cheque,Online,Failed,3
+RFIN-1147,28-05-2023 00:00,Equity,Investment,Equity,3,5893,17679,Aarav,Male,57,Delhi,Sneha,India,INR,Branch-5,Cheque,Agent,Pending,3
+RFIN-1148,29-05-2023 00:00,Equity,Investment,Equity,1,8022,8022,Aditya,Female,32,Bangalore,Priya,India,INR,Branch-1,Cheque,Online,Success,2
+RFIN-1149,30-05-2023 00:00,Debt Fund,Investment,Debt Fund,4,6600,26400,Aarav,Female,33,Delhi,Amit,India,INR,Branch-1,UPI,Offline,Pending,4
+RFIN-1150,31-05-2023 00:00,Equity,Investment,Equity,3,8996,26988,Rahul,Female,43,Mumbai,Sneha,India,INR,Branch-3,Credit Card,Offline,Failed,1
+RFIN-1151,01-06-2023 00:00,Pension Plan,Others,Others,3,8683,26049,Karan,Female,45,Mumbai,Raj,India,INR,Branch-2,Cheque,Online,Success,4
+RFIN-1152,02-06-2023 00:00,Pension Plan,Others,Others,1,5642,5642,Megha,Female,55,Chennai,Raj,India,INR,Branch-2,Credit Card,Offline,Failed,5
+RFIN-1153,03-06-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,8679,26037,Rahul,Female,50,Delhi,Vikas,India,INR,Branch-5,UPI,Agent,Pending,3
+RFIN-1154,04-06-2023 00:00,Pension Plan,Others,Others,1,9208,9208,Megha,Female,37,Mumbai,Sneha,India,INR,Branch-2,Net Banking,Agent,Pending,1
+RFIN-1155,05-06-2023 00:00,Debt Fund,Investment,Debt Fund,2,8339,16678,Ishita,Male,40,Mumbai,Amit,India,INR,Branch-1,Cheque,Offline,Success,1
+RFIN-1156,06-06-2023 00:00,Insurance,Others,Others,3,3205,9615,Ishita,Female,45,Mumbai,Raj,India,INR,Branch-5,UPI,Offline,Success,5
+RFIN-1157,07-06-2023 00:00,Mutual Fund,Investment,Mutual Fund,2,2069,4138,Neha,Male,42,Bangalore,Vikas,India,INR,Branch-2,Credit Card,Offline,Pending,5
+RFIN-1158,08-06-2023 00:00,Mutual Fund,Investment,Mutual Fund,1,4444,4444,Megha,Male,33,Delhi,Sneha,India,INR,Branch-5,Cheque,Offline,Failed,2
+RFIN-1159,09-06-2023 00:00,Debt Fund,Investment,Debt Fund,4,2060,8240,Aditya,Female,39,Mumbai,Raj,India,INR,Branch-2,Credit Card,Agent,Pending,3
+RFIN-1160,10-06-2023 00:00,Debt Fund,Investment,Debt Fund,3,3327,9981,Aarav,Male,56,Delhi,Sneha,India,INR,Branch-2,Net Banking,Agent,Pending,3
+RFIN-1161,11-06-2023 00:00,Equity,Investment,Equity,1,4420,4420,Ishita,Male,32,Kolkata,Vikas,India,INR,Branch-3,Cheque,Offline,Pending,4
+RFIN-1162,12-06-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,1301,5204,Aarav,Male,39,Kolkata,Amit,India,INR,Branch-2,Cheque,Online,Failed,2
+RFIN-1163,13-06-2023 00:00,Equity,Investment,Equity,4,1606,6424,Aarav,Male,32,Bangalore,Vikas,India,INR,Branch-5,Credit Card,Online,Failed,2
+RFIN-1164,14-06-2023 00:00,Pension Plan,Others,Others,2,4170,8340,Aditya,Male,29,Kolkata,Amit,India,INR,Branch-1,Cheque,Agent,Pending,2
+RFIN-1165,15-06-2023 00:00,Mutual Fund,Investment,Mutual Fund,1,1699,1699,Rahul,Male,27,Chennai,Priya,India,INR,Branch-3,UPI,Online,Success,2
+RFIN-1166,16-06-2023 00:00,Mutual Fund,Investment,Mutual Fund,4,6088,24352,Aarav,Male,48,Delhi,Raj,India,INR,Branch-2,UPI,Offline,Failed,3
+RFIN-1167,17-06-2023 00:00,Insurance,Others,Others,3,1190,3570,Megha,Male,34,Mumbai,Priya,India,INR,Branch-2,Net Banking,Online,Pending,3
+RFIN-1168,18-06-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,1980,5940,Aditya,Male,51,Chennai,Amit,India,INR,Branch-5,UPI,Agent,Pending,2
+RFIN-1169,19-06-2023 00:00,Pension Plan,Others,Others,2,3975,7950,Ishita,Male,39,Chennai,Sneha,India,INR,Branch-3,Net Banking,Offline,Pending,4
+RFIN-1170,20-06-2023 00:00,Equity,Investment,Equity,4,7102,28408,Karan,Female,36,Kolkata,Amit,India,INR,Branch-2,Credit Card,Offline,Success,1
+RFIN-1171,21-06-2023 00:00,Equity,Investment,Equity,1,2184,2184,Aarav,Male,25,Delhi,Amit,India,INR,Branch-1,Credit Card,Agent,Failed,1
+RFIN-1172,22-06-2023 00:00,Insurance,Others,Others,3,4327,12981,Neha,Male,55,Mumbai,Sneha,India,INR,Branch-1,Net Banking,Online,Pending,4
+RFIN-1173,23-06-2023 00:00,Pension Plan,Others,Others,4,4394,17576,Aditya,Female,32,Chennai,Priya,India,INR,Branch-2,UPI,Agent,Failed,2
+RFIN-1174,24-06-2023 00:00,Equity,Investment,Equity,4,9319,37276,Rahul,Female,45,Bangalore,Raj,India,INR,Branch-1,UPI,Agent,Pending,3
+RFIN-1175,25-06-2023 00:00,Debt Fund,Investment,Debt Fund,2,2816,5632,Pooja,Female,41,Mumbai,Amit,India,INR,Branch-3,Net Banking,Online,Pending,1
+RFIN-1176,26-06-2023 00:00,Pension Plan,Others,Others,3,6854,20562,Ishita,Male,56,Kolkata,Amit,India,INR,Branch-2,Net Banking,Offline,Failed,5
+RFIN-1177,27-06-2023 00:00,Pension Plan,Others,Others,3,7709,23127,Ishita,Male,43,Delhi,Raj,India,INR,Branch-5,Credit Card,Online,Success,5
+RFIN-1178,28-06-2023 00:00,Insurance,Others,Others,1,1569,1569,Pooja,Male,36,Bangalore,Amit,India,INR,Branch-3,Net Banking,Online,Success,4
+RFIN-1179,29-06-2023 00:00,Equity,Investment,Equity,3,6442,19326,Megha,Female,59,Mumbai,Raj,India,INR,Branch-1,UPI,Offline,Failed,2
+RFIN-1180,30-06-2023 00:00,Pension Plan,Others,Others,1,2895,2895,Karan,Male,59,Mumbai,Raj,India,INR,Branch-2,Net Banking,Offline,Failed,1
+RFIN-1181,01-07-2023 00:00,Equity,Investment,Equity,3,3733,11199,Ishita,Male,34,Chennai,Raj,India,INR,Branch-3,Net Banking,Agent,Pending,2
+RFIN-1182,02-07-2023 00:00,Debt Fund,Investment,Debt Fund,2,4863,9726,Ishita,Female,51,Mumbai,Sneha,India,INR,Branch-1,Net Banking,Online,Pending,1
+RFIN-1183,03-07-2023 00:00,Insurance,Others,Others,3,8455,25365,Rahul,Female,25,Delhi,Priya,India,INR,Branch-2,Credit Card,Offline,Failed,4
+RFIN-1184,04-07-2023 00:00,Debt Fund,Investment,Debt Fund,1,5014,5014,Ishita,Female,55,Delhi,Priya,India,INR,Branch-4,Net Banking,Online,Failed,4
+RFIN-1185,05-07-2023 00:00,Insurance,Others,Others,1,2686,2686,Aditya,Male,43,Mumbai,Vikas,India,INR,Branch-5,Cheque,Online,Failed,5
+RFIN-1186,06-07-2023 00:00,Pension Plan,Others,Others,2,4009,8018,Megha,Male,49,Chennai,Sneha,India,INR,Branch-1,Cheque,Offline,Success,2
+RFIN-1187,07-07-2023 00:00,Insurance,Others,Others,3,8806,26418,Karan,Male,31,Bangalore,Vikas,India,INR,Branch-1,Cheque,Offline,Success,5
+RFIN-1188,08-07-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,1154,3462,Neha,Male,38,Bangalore,Priya,India,INR,Branch-4,UPI,Online,Success,2
+RFIN-1189,09-07-2023 00:00,Equity,Investment,Equity,2,2409,4818,Karan,Female,32,Chennai,Priya,India,INR,Branch-4,UPI,Offline,Failed,5
+RFIN-1190,10-07-2023 00:00,Equity,Investment,Equity,3,1784,5352,Megha,Male,29,Kolkata,Priya,India,INR,Branch-3,Net Banking,Online,Failed,3
+RFIN-1191,11-07-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,9096,27288,Aditya,Male,30,Delhi,Amit,India,INR,Branch-5,Cheque,Offline,Pending,3
+RFIN-1192,12-07-2023 00:00,Debt Fund,Investment,Debt Fund,1,8560,8560,Megha,Female,37,Kolkata,Vikas,India,INR,Branch-5,Credit Card,Agent,Success,3
+RFIN-1193,13-07-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,8343,25029,Rahul,Female,58,Chennai,Sneha,India,INR,Branch-1,Cheque,Offline,Success,3
+RFIN-1194,14-07-2023 00:00,Pension Plan,Others,Others,3,8206,24618,Neha,Female,27,Kolkata,Vikas,India,INR,Branch-4,Cheque,Online,Success,1
+RFIN-1195,15-07-2023 00:00,Pension Plan,Others,Others,2,6596,13192,Karan,Male,33,Chennai,Priya,India,INR,Branch-5,UPI,Offline,Success,3
+RFIN-1196,16-07-2023 00:00,Equity,Investment,Equity,2,6801,13602,Aarav,Female,29,Bangalore,Sneha,India,INR,Branch-2,UPI,Online,Failed,4
+RFIN-1197,17-07-2023 00:00,Pension Plan,Others,Others,4,3806,15224,Karan,Male,47,Bangalore,Vikas,India,INR,Branch-5,Credit Card,Offline,Pending,4
+RFIN-1198,18-07-2023 00:00,Equity,Investment,Equity,1,1537,1537,Rahul,Female,22,Kolkata,Priya,India,INR,Branch-1,UPI,Online,Pending,1
+RFIN-1199,19-07-2023 00:00,Mutual Fund,Investment,Mutual Fund,3,6986,20958,Neha,Female,25,Kolkata,Priya,India,INR,Branch-5,Credit Card,Online,Pending,3
